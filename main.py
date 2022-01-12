@@ -1,3 +1,4 @@
+#importing logo from art file
 from art import logo
 #calculator
 def add(n1, n2):
